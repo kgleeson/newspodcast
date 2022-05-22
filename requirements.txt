@@ -1,0 +1,2 @@
+feedparser==6.0.10
+gTTS==2.2.4
